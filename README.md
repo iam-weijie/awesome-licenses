@@ -9,7 +9,7 @@ This repo collects common licenses (MIT, Apache, GPL, BSD, etc.) so you can quic
    This license is favored by projects with corporate contributors because it provides explicit patent grants and protections alongside its permissive terms.
 
 3. BSD Licenses:
-   Similar to MIT, the BSD licenses (2-clause and 3-clause) are permissive but include specific attribution requirements.
+   Similar to MIT, the BSD licenses ([2-clause](3.BSD_2clause.txt) and [3-clause](3.BSD_3claust.txt)) are permissive but include specific attribution requirements.
 
 4. [GNU General Public License (GPL)](4.gpl-3.0.txt):
    The GPL is a copyleft license that requires derivative works to be released under the same GPL license, ensuring that the software and its improvements remain open-source.
